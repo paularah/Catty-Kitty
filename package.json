@@ -1,0 +1,24 @@
+{
+  "name": "catty-kitty",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paularah/Catty-Kitty.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paularah/Catty-Kitty/issues"
+  },
+  "homepage": "https://github.com/paularah/Catty-Kitty#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "request": "^2.88.2",
+    "yargs": "^15.2.0"
+  }
+}
