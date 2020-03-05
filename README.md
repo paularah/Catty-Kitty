@@ -18,20 +18,20 @@ Clone the repo from and navigate to the project folder on local machine and inst
 git clone https://github.com/paularah/Catty-Kitty
 ```
 
-And repeat
+This clones the repository into the specified location locally
 
 ```
 npm install
 ```
 
-This install al dependencies like yarn, axios, etc needed to run this projects.
+This install all node dependencies like yarn, axios, etc needed to run this projects.
 
 ## Facts
 
 Facts returns a random fact about cats.
 
 ```
-node app.js facts
+node app.js --facts
 ```
 
 ### Facts with arguments
