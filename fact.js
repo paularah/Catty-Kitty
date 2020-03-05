@@ -4,6 +4,7 @@ and return facts about cats fecthed from the API. This function is called in the
 main app.js file.
 */
 
+// axios node module
 const axios = require("axios");
 
 const getFacts = limit => {
